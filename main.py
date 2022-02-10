@@ -1,11 +1,16 @@
 #!/usr/bin/env python
 # 
-# TCP Port Scanner Version 1.0.0 (2022)
+# TCP Port Scanner Version 1.0.1 (2022)
+# 
+# This tool may be used for legal purposes only.  Users take full responsibility
+# for any actions performed using this tool. The author accepts no liability for
+# damage caused by this tool.  If these terms are not acceptable to you, then do 
+# not use this tool.
 # 
 # by Pierre CHAUSSARD
 # 
-# 07-Feb-2022 - Creating basic script.
-# 
+# 07-Feb-2022 - 1.0.0 - Creating basic script.
+# 10-Feb-2022 - 1.0.1 - Updating README.md & terms of use.
 
 
 import pyfiglet
