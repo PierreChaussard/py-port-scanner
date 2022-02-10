@@ -9,6 +9,7 @@
 ## Présentation
 Script Python (réalisé par Pierre Chaussard) qui permet de scanner tous les ports TCP communs d'un hôte connu (IP/Host).
 
+### Disclaimer
 Cet outil ne peut être utilisé qu'à des fins légales. Les utilisateurs assument l'entière responsabilité de toute action effectuée à l'aide de cet outil. L'auteur décline toute responsabilité pour les dommages causés par cet outil. Si ces termes ne vous conviennent pas, n'utilisez pas cet outil.
 
 ## Installation
