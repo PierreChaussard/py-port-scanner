@@ -13,12 +13,16 @@ Script Python (réalisé par Pierre Chaussard) qui permet de scanner tous les po
 Cet outil ne peut être utilisé qu'à des fins légales. Les utilisateurs assument l'entière responsabilité de toute action effectuée à l'aide de cet outil. L'auteur décline toute responsabilité pour les dommages causés par cet outil. Si ces termes ne vous conviennent pas, n'utilisez pas cet outil.
 
 ## Installation
-1. Clonez le `repository`.
-2. Installez les modules python suivants :
-    - `pip install pyfiglet`.
-    - `pip install socket`.
-    - `pip install json`.
-    - `pip install sys`.
+
+1. Clonez le `repository` à l'aide de la commande : 
+```bash
+git clone https://github.com/PierreChrd/py-sutom-cheat.git
+```
+
+2. Pour installer les modules python, executez la commande : 
+```bash
+pip install -r requirements.txt
+```
 
 ## Utilisation
 1. Lancement : `py main.py [ip/host]` (*par exemple : `py main.py 127.0.0.1`*).
